@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name ="action_settings">Setting</string>
+
+
+    <string name="txtTitle">Total</string>
+    <string name="prompt">Select Group</string>
+    <string name="description">Concert Image</string>
+    <string name="btnCost">CALCULATE</string>
+    <string-array name="txtGroup">
+        <item>Number of guests</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="txtGroup2">
+        <item>Tip percentage</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+
+
+    </string-array>
+
+</resources>
